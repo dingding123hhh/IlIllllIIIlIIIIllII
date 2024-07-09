@@ -110,6 +110,8 @@ elseif Name == "114514dysxzwsn" then
 whitu = true
 elseif Name == "SuiSengGuiQu" then 
 whitu = true
+elseif Name == "bnm123456782" then 
+whitu = true
 end
 
 if whitu then
